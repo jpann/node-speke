@@ -25,7 +25,7 @@
     "test": "./node_modules/mocha/bin/mocha test.js"
   },
   "dependencies": {
-    "bignum": "^0.11.0"
+    "bignum": "^0.12.5"
   },
   "devDependencies": {
     "mocha": "~1.18.2"
